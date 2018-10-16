@@ -1,7 +1,1 @@
-this is the way the world ends
-this is the way the world ends
-this is the way the world ends
-
-not with a bang
-
-but a whimper
+../../Class_Resources/Datasets/TSE.txt
