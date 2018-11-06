@@ -1,0 +1,5 @@
+zero	w1	d1	1	10	99	66
+one	w1	d3	2	20	99	66
+two	w2	d1	3	30	99	66
+three	w2	d2	4	40	99	66
+four	w2	d2	5	60	99	66
